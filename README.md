@@ -21,3 +21,5 @@ Para resolverlo, se implementó la clase `GestorAlquilerDisfraces` como un **Sin
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/sofiamartinez47152-beep/TiendaDisfraces-Singleton.git
+   ```
+2. Abrir el proyecto en IntelliJ IDEA y ejecutar la clase `Main.java` *(o compilar desde consola dentro de `src` con `javac *.java` y ejecutar `java Main`)*.
