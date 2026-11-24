@@ -20,4 +20,4 @@ Para resolverlo, se implementó la clase `GestorAlquilerDisfraces` como un **Sin
 ## Cómo ejecutarlo
 1. Clonar el repositorio:
    ```bash
-   git clone <URL-DE-TU-REPOSITORIO>
+   git clone https://github.com/sofiamartinez47152-beep/TiendaDisfraces-Singleton.git
