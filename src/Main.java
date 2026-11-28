@@ -1,11 +1,11 @@
 public class Main{
     public static void main(String[] args){
         //Verificación del patrón Singleton
-        System.out.println("\nVERIFICANDO EL PATRÓN SINGLETON...");
+        //System.out.println("\nVERIFICANDO EL PATRÓN SINGLETON...");
         GestorAlquilerDisfraces prueba1 = GestorAlquilerDisfraces.getInstance();
         GestorAlquilerDisfraces prueba2 = GestorAlquilerDisfraces.getInstance();
         //Va a imprimir 'true' si se cumple el patrón y 'false' si no se cumple y existen más de una instancia
-        System.out.println("¿prueba1 y prueba2 apuntan al mismo objeto en memoria?: " +(prueba1 == prueba2));
+        //System.out.println("¿prueba1 y prueba2 apuntan al mismo objeto en memoria?: " +(prueba1 == prueba2));
         //Simulación del flujo de negocio entre ambos canales de la tienda
         System.out.println("\n¡SIMULACIÓN DE LA TIENDA DE DISFRACES!");
         MostradorFisico mostrador = new MostradorFisico();
