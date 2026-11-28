@@ -23,3 +23,6 @@ Para resolverlo, se implementó la clase `GestorAlquilerDisfraces` como un **Sin
    git clone https://github.com/sofiamartinez47152-beep/TiendaDisfraces-Singleton.git
    ```
 2. Abrir el proyecto en IntelliJ IDEA y ejecutar la clase `Main.java` *(o compilar desde consola dentro de `src` con `javac *.java` y ejecutar `java Main`)*.
+
+## Salida por Consola
+<img width="1082" height="870" alt="image" src="https://github.com/user-attachments/assets/64f73e26-f1c2-4a61-a842-b431b81ecf0e" />
